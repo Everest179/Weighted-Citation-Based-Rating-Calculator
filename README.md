@@ -12,31 +12,13 @@ This is a web application for calculating and visualizing ratings based on multi
 - Toggle between light and dark modes
 - Mobile-responsive design
 
-## Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/person-rating-calculator.git
-    cd person-rating-calculator
-    ```
-
-2. Create a virtual environment and activate it:
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-4. Run the application:
+## Running
+1. Run the application:
     ```sh
     python app.py
     ```
 
-5. Open your browser and navigate to `http://127.0.0.1:5000`.
+2. Open your browser and navigate to `http://127.0.0.1:5000`or go to the ip shown in the terminal.
 
 ## Usage
 
@@ -65,9 +47,6 @@ person-rating-calculator/
 └── README.md
 ```
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
